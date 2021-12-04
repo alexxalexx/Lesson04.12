@@ -1,0 +1,38 @@
+.header
+{
+	height: 200px;
+	width: 1900px;
+	background-color: #2b2b2b;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+.logo
+{
+	background-color: white;
+	height: 150px;
+	width: 300px;
+	border-radius: 10px;
+	margin-left: 25px;
+	align-self: center;
+}
+.menu
+{
+	background-color: white;
+	height: 80px;
+	width: 1000px;
+	border-radius: 10px;
+	align-self: center;
+	margin-right: 50px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.buttons
+{
+	background-color: limegreen;
+	height: 50px;
+	width: 200px;
+	border-radius: 10px;
+	align-self: center;
+
+}
